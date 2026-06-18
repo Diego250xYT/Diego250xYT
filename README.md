@@ -1,5 +1,5 @@
 # Diego250xYT
 
-Backend developer with expertise in **C#** and a passion for **vibe coding** across JavaScript, Go, and other languages.
+Backend developer with C#, JavaScript, Go, and a love for building tools.
 
-Building tools, proxies, and automation projects. Open-source contributor and lifelong learner.
+Este repo es mi sitio personal hecho con Jekyll. Vive en GitHub Pages.
